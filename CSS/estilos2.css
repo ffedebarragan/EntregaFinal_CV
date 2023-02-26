@@ -1,0 +1,196 @@
+
+* {
+    font-family: 'Noto Sans', sans-serif;
+
+}
+
+.barranav {
+    font-weight: bold;
+}
+
+.BG { 
+    background: #11B221;
+    background: -moz-linear-gradient(left, #11B221 0%, #7C8404 100%);
+    background: -webkit-linear-gradient(left, #11B221 0%, #7C8404 100%);
+    background: linear-gradient(to right, #11B221 0%, #7C8404 100%);
+ }
+
+    .banner_BG { 
+    background-image: url(https://wallpaperaccess.com/full/1155017.jpg);
+    background-color: #11B221 ;
+    padding-top: 1px;
+    padding-bottom: 0px;
+    padding-right: auto;
+    padding-left: auto;
+    height: 501px;
+    margin: 0px 0px 0px 0px;
+}
+
+img.banner {
+    text-align: center;
+    border: 7px solid #000000;
+    height: 215px;
+    width: 215px;
+    display: block;
+  margin-left: auto;
+  margin-right: auto;  
+  margin-top: 115px;
+  margin-bottom: 25px ;
+
+}
+
+h1.banner {
+    text-align: center;
+    font-family: 'Noto Serif TC', serif;
+
+
+
+font-size: 45px;
+letter-spacing: 0.4px;
+word-spacing: 1.6px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
+h2.banner {
+    text-align: center;
+font-family: 'Noto Sans', sans-serif;
+
+
+font-size: 22px;
+letter-spacing: -0.6px;
+word-spacing: -1.6px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+margin-top: 20 px;
+}
+
+
+
+h1 {
+    text-align: center;
+    font-family: 'Noto Serif TC', serif;
+
+
+
+font-size: 20px;
+letter-spacing: 0.4px;
+word-spacing: 1.6px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+}
+
+
+.aboutme {
+padding: 100px 10px 10px 10px;
+}
+
+
+p.aboutme {
+    text-align: center;
+font-family: 'Noto Sans', sans-serif;
+
+
+font-size: 20px;
+letter-spacing: 0.4px;
+word-spacing: 1.6px;
+color: #000000;
+font-weight: 400;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: none;
+
+padding-top: 25px;
+padding-left: 150px;
+padding-right: 150px;
+padding-bottom: 25px;
+
+}
+
+
+
+.boton {
+    text-align: center;
+    width: 140px;
+    display: block;
+    
+  margin-left: 50%;
+  margin-right: 50%;  
+  padding:10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+    color: rgb(255, 255, 255); 
+    font-size: 21px; 
+    line-height: 21px; 
+    border-radius: 31px; 
+    font-weight: normal; 
+    text-decoration: none; 
+    font-style: normal; 
+    font-variant: normal; 
+    text-transform: none; 
+    background-image: linear-gradient(to right, rgb(10, 106, 20) 0%, rgb(10, 106, 20) 100%); 
+    box-shadow: rgb(0, 0, 0) 5px 5px 15px 5px; 
+    border: 0px solid rgb(10, 106, 20); 
+    display: inline-block;}
+    .boton:hover {
+    background: #0A6A14; }
+    .boton:active {
+    background: #0A6A14; }
+
+#conjunto {
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-top: 10px;
+    padding-top: 0px;
+    padding-bottom: 100px;
+
+}
+
+.tarjeta {
+    background-color: #0D8619;
+    text-align: center;
+    padding: auto;
+}
+
+h5.tarjeta {
+    font-weight: 700;
+    background-color: #0D8619;
+
+}
+p.tarjeta {
+    font-weight: 400;
+    background-color: #0D8619;
+
+}
+
+.carretel {
+    margin: 25px 100px 0px 100px;
+    padding: 10px 120px 10px 120px;
+}
+
+.footerlogo {
+    background: #0A6A14;
+    width: 100%; 
+}
+
+
+.Contacto {
+    margin: 10px 10px 10px 10px;
+    padding: 10px 10px 10px 10px;
+    width: 23px;
+    height: 23px;
+background: #0A6A14;
+}
